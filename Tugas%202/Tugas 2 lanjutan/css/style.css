@@ -1,0 +1,52 @@
+body{
+	background-color:#d98cd9;
+	font-family: arial,verdana,trebuchet;
+	color:black;
+	margin:10%;
+}
+
+h1{
+	text-align: center;
+	font-size:48px;
+	margin:auto;
+	background-color:#ffffff; 
+	border-style: solid;
+	border-width:10px;
+	border-color: #7a00b3;
+}
+
+.home{
+	background-color:#c64dff;
+	font-size: 30px;
+    text-align:center;
+    padding: 2%;
+
+}
+
+img{
+	display: block;
+    margin: auto;
+    width: 30%;
+}
+
+p{
+	font-family: verdana;
+	font-size: 20px;
+	text-align: center;
+	margin:auto;
+}
+
+ul {
+	list-style-type: none;
+    background: #c64dff;
+    padding: 20px;
+}
+ul li {
+	text-align: center;
+    background: #e7b3ff;
+    margin: 5px;
+}
+
+a:hover{
+    color: hotpink;
+}

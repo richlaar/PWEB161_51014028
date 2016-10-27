@@ -1,0 +1,12 @@
+20/10/16
++10 tugas siap
+-3 untuk setiap penggunaan opsi tag kecuali <img>,<a>
+TOTAL= 7
+
+
+27/10/16
++10 untuk tugas dikerjakan
+-1 untuk penggunaan nama warna.
++5 untuk setiap elector yang lebih dari 5 baris
++10 untuk untuk setiap pemanggilan class yg sama dalam HTML
+TOTAL= 34
