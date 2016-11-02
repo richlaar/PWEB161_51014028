@@ -1,0 +1,58 @@
+body{
+	background-image: url(images.jpg);
+}
+
+.judul{
+	background-image: url(pisang.gif);
+	width: 100%;
+	height: 400px;
+	margin: auto;
+	text-align: center;
+	 }
+
+.daftar{
+	background-image: url(pisang.gif);
+	width: 300px;
+	float: left;
+	margin-top: -20px;
+	margin-left: 40px;
+
+}
+
+.daftar ul {
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    background-color: #f1f1f1;
+}
+
+.daftar li a {
+    display: block;
+    border: 1px solid #eaeaea;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.daftar li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.lagu{
+	background-color:#ff3385;
+	width: 500px;
+	height: 550px;
+	background-size: cover;
+	overflow: auto;
+	float: right;
+	text-align: center;
+}
+ 
+ .kotak{
+ 	background-image: url(pisang.gif);
+ 	overflow: auto;
+ 	width: 900px;
+ 	margin: auto;
+ }
