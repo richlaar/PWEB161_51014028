@@ -1,5 +1,7 @@
 body{
 	background-image: url(images.jpg);
+	font-family: arial;
+	margin:auto;
 }
 
 .judul{
@@ -8,6 +10,7 @@ body{
 	height: 400px;
 	margin: auto;
 	text-align: center;
+	position: relative;
 	 }
 
 .daftar{
@@ -16,6 +19,8 @@ body{
 	float: left;
 	margin-top: -20px;
 	margin-left: 40px;
+	position: relative;
+	display: inline-block;
 
 }
 
@@ -47,12 +52,14 @@ body{
 	background-size: cover;
 	overflow: auto;
 	float: right;
+	position: relative;
+	display: inline-block;
 	text-align: center;
 }
  
  .kotak{
  	background-image: url(pisang.gif);
  	overflow: auto;
- 	width: 900px;
+ 	width: 64%;
  	margin: auto;
  }
